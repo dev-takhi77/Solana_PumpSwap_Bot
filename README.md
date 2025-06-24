@@ -1,5 +1,4 @@
 # PumpSwap SDK
-# Solana Raydium Bundler & Pumpfun Bundler
 
 This bot is designed to to buy and sell tokens in PumpSwap that migrated from pumpfun.
 
